@@ -2,7 +2,6 @@
 
 <h1 align="center"><b><i>Great Tool</b></i></h1>
 
-<img src="https://github.com/Spyware0/spy-menu/blob/main/m.png" alt="Banner" title="spy-menu"/>
 
 Um script com diversas funções para hacking
 
