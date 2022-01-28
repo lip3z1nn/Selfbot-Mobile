@@ -10,10 +10,10 @@ Um script com diversas funções para hacking
 
 <h3 align="center">Funções que funcionam atualmente!</h3>
 
-- [] Buscar CC pelo cpf
+- [ ] Buscar CC pelo cpf
 - [x] Invadir câmera frontal do Android
 - [x] Consulta CPF,IP,TELEFONE,NOME
-- [] Gerar número para receber sms
+- [ ] Gerar número para receber sms
 
 
 <h2 align="center">Início 💻</h2>
